@@ -1,2 +1,7 @@
 # react-node-skeleton
-react and node project setup
+Template for Node React projects created by AllenLiDev
+
+# options
+
+
+# tutorials
